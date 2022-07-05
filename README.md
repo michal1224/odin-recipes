@@ -4,3 +4,11 @@
 
 
 <!-- ctrl+k+c i jest notatka -->
+
+ogolem powtorzenie wszystkiego co bylo a w szczegolnosci:
+-naglowki
+-tytuly
+-listy
+-linki
+-wklejanie jpeg
+
